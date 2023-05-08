@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(255, 255, 247);
+  margin-top: 10%;
+}
+div{
+  margin-top: 50px; 
+  height: 200px;
+  color: rgb(2, 23, 44);
+  text-align: center;
+  
+}
+#current-time {
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2{
+  font-weight: bolder;
+}
+label{
+  font-weight: bolder;
+}
